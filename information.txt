@@ -1,0 +1,12 @@
+L2300
+score <span class="meter-value superPageFontColor"><span>99</span>%</span>
+
+Rating
+Director
+Writor
+Genre
+In Theaters
+BoxOffice
+Runtime
+Studio
+Cast name Celebrity

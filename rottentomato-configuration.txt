@@ -1,0 +1,15 @@
+name = 1
+data = 1
+director = 1
+writers = 1
+actors = 1
+labels = 1
+country = 0
+language = 0
+runtime = 1
+producer = 1
+earnings = 1
+rating = 1
+awards = 0
+reviews = 1
+photos = 1
